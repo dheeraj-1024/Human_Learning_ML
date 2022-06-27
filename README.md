@@ -7,3 +7,4 @@
 |4|cnn_simple|a simple implementation of cnn for mnist data|
 |5| decision_tree | simple decision tree implementation |
 |6| n_fit | n-th order polynomial fit |
+|7| naive_iris_data| naive bayes using classes |
